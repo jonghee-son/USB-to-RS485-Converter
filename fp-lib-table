@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "digikey-footprints")(type "KiCad")(uri "C:/lib/digikey-kicad-library-1.2/digikey-footprints.pretty")(options "")(descr ""))
+)
